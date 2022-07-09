@@ -18,3 +18,6 @@ We don't make assumptions about the rest of your technology stack, so you can de
 in React without rewriting existing code.
 
 React can also render on the server using Node and power mobile apps using React Native.
+
+**A Simple Component**
+React components implement
